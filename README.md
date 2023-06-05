@@ -30,12 +30,12 @@ Structure of "product" table
 ## Working of Application
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s4.png" >
 
 + run src/Splash.java
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s5.png" >
 
 + Signup module for new employee
 + Here are 3 types of users(Admin,Manager,Cashier)
@@ -44,8 +44,7 @@ Structure of "product" table
     + Username and Password have to be more 0 length and less than size of VARCHAR specified in DB.
     + Password must contain atleast one Uppercase [A-Z] ,Lowercase [a-z], Number [0-9] and Special Char(@#$%) 
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s6.png" >
 
 + Added detailes for one employee
 
