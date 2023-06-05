@@ -99,3 +99,11 @@ Structure of "product" table
 
 +after deleting an employee
 
+<img src="screenshots/s19.png" >
+
++ same CRUD functionalities for product management
+
+<img src="screenshots/s19.png" >
+
++ product detailes
+
