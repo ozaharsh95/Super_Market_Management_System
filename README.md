@@ -10,16 +10,16 @@ In Mysql DBMS,
 - create database named as "supermarketmanagementsystem".
 + create tables named as "login" ,"employee" and "product".
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s1.png" >
 
 Structure of "login" table
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s2.png" >
 
 
 Structure of "employee" table
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s3.png" >
 
 Structure of "product" table
 ## How to run an application
