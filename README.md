@@ -69,20 +69,19 @@ Structure of "product" table
 + after enter detailes of cutomer we can add items by thier Id or Name using add1 button or add2 button 
 
 
-<img src="screenshots/s11.png" >
+<img src="screenshots/s12.png" >
 
 
 + after pessing bill you will bill in your textarea
 
 
-<img src="screenshots/s12.png" >
+<img src="screenshots/s13.png" >
 
 + save as will create txt file for bill and refresh button reset input fields
 
 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img src="screenshots/s14.png" >
 + when you logged in as "admin" you will get additionally two more functionality for employee management and product management
 
+<img src="screenshots/s15.png" >
 
