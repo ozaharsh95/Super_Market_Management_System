@@ -49,7 +49,7 @@ Structure of "product" table
 + Added detailes for one employee
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s7.png" >
 
 + DETAILS also added successfully to "login" table
 
