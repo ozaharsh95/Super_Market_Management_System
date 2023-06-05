@@ -54,27 +54,28 @@ Structure of "product" table
 + DETAILS also added successfully to "login" table
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s8.png" >
+
 
 + login as "Navin"
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s9.png" >
 
 + Since "Navin" is cashier, he is able to see only options for logout and billing System
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s10.png" >
 
 + after enter detailes of cutomer we can add items by thier Id or Name using add1 button or add2 button 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s11.png" >
 
 
 + after pessing bill you will bill in your textarea
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="screenshots/s12.png" >
 
 + save as will create txt file for bill and refresh button reset input fields
 
