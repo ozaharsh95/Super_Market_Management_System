@@ -56,32 +56,28 @@ Structure of "product" table
 
 <img src="screenshots/s8.png" >
 
-
 + login as "Navin"
++ Since "Navin" is cashier, he is able to see only options for logout and billing System
 
 <img src="screenshots/s9.png" >
 
-+ Since "Navin" is cashier, he is able to see only options for logout and billing System
-
-
-<img src="screenshots/s10.png" >
-
 + after enter detailes of cutomer we can add items by thier Id or Name using add1 button or add2 button 
 
-
-<img src="screenshots/s12.png" >
-
-
+<img src="screenshots/s10.png" >
 + after pessing bill you will bill in your textarea
-
-
-<img src="screenshots/s13.png" >
+<img src="screenshots/s12.png" >
 
 + save as will create txt file for bill and refresh button reset input fields
 
 
-<img src="screenshots/s14.png" >
+
+<img src="screenshots/s13.png" >
 + when you logged in as "admin" you will get additionally two more functionality for employee management and product management
+
+
+
+<img src="screenshots/s14.png" >
+
 
 <img src="screenshots/s15.png" >
 
