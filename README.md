@@ -81,3 +81,21 @@ Structure of "product" table
 
 <img src="screenshots/s15.png" >
 
++ employee detailes after pressing view employee
+
+<img src="screenshots/s16.png" >
+
++ adding new employee detailes
+
+<img src="screenshots/s17.png" >
+
++ after adding new employee 
+
+<img src="screenshots/s18.png" >
+
++deleting employee by employeeId 
+
+<img src="screenshots/s19.png" >
+
++after deleting an employee
+
