@@ -10,7 +10,7 @@ In Mysql DBMS,
 - create database named as "supermarketmanagementsystem".
 + create tables named as "login" ,"employee" and "product".
 
-<img src="screenshots/s1.png" >
+
 
 Structure of "login" table
 
@@ -18,10 +18,12 @@ Structure of "login" table
 
 
 Structure of "employee" table
+<img src="screenshots/s1.png" >
 
-<img src="screenshots/s3.png" >
 
 Structure of "product" table
+
+<img src="screenshots/s3.png" >
 ## How to run an application
 
 + make database connectivity
