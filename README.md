@@ -24,6 +24,7 @@ Structure of "employee" table
 Structure of "product" table
 
 <img src="screenshots/s3.png" >
+
 ## How to run an application
 
 + make database connectivity
